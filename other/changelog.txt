@@ -1,0 +1,31 @@
+~ changelog.txt | Updated 12/5/2021 ~
+
+[+] Added Login Menu and System [+]
+
+[+] Added Register Menu and System [+]
+
+[+] Added Delete Account Menu and System [+]
+
+[+] Added IP Pinger [+]
+
+[+] Added IP Lookup [+]
+
+[+] Added Port Scanner [+]
+
+[+] Added LANC v2 [App may not work] [+]
+
+[+] Added Connection Test [+]
+
+[+] Added IP Saver [+]
+
+[+] Added Password Generator [+]
+
+[+] Added IP Tracker [+]
+
+[+] Added Help2 [+]
+
+[+] Added Discord Nuker [+]
+
+[+] Added PC Cleanup [+]
+
+~ [ And that's about it. I will try to add more features in the future! ] ~

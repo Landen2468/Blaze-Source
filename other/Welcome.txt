@@ -1,0 +1,21 @@
+~ Welcome.txt | Updated 12/4/2021 ~
+
+▀█████████▄   ▄█          ▄████████  ▄███████▄     ▄████████ 
+  ███    ███ ███         ███    ███ ██▀     ▄██   ███    ███ 
+  ███    ███ ███         ███    ███       ▄███▀   ███    █▀  
+ ▄███▄▄▄██▀  ███         ███    ███  ▀█▀▄███▀▄▄  ▄███▄▄▄     
+▀▀███▀▀▀██▄  ███       ▀███████████   ▄███▀   ▀ ▀▀███▀▀▀     
+  ███    ██▄ ███         ███    ███ ▄███▀         ███    █▄  
+  ███    ███ ███▌    ▄   ███    ███ ███▄     ▄█   ███    ███ 
+▄█████████▀  █████▄▄██   ███    █▀   ▀████████▀   ██████████ 
+             ▀                                               
+Welcome to the Blaze Multi-Tool! I was kinda bored, so I made this Multi-Tool for fun.
+
+But anyways, hope you enjoy the Multi-Tool!
+
+Also, the Multi-Tool's source code is in the 2nd help menu.
+Just type "source" and a link will open up.
+
+[!] No skidding cucks. Batch language is very easy to learn. [!]
+
+ -landen.
